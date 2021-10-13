@@ -29,7 +29,6 @@ def main():
     print("For Example: Test cases")
     print(n_primes(10))
     print(n_primes(5))
-    print(n_primes(115))
     x = int(input("enter a number: "))
     print(n_primes(x))
 
